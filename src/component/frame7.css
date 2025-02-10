@@ -1,0 +1,322 @@
+.frame-7,
+.frame-7 * {
+  box-sizing: border-box;
+}
+.frame-7 {
+  background: var(
+    --bells,
+    linear-gradient(
+      90deg,
+      rgba(52, 38, 252, 1) 0%,
+      rgba(104, 90, 67, 1) 57.499998807907104%
+    )
+  );
+  height: 957px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-9 {
+  background: #ffffff;
+  width: 1484px;
+  height: 84px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.photo21{
+  width: 5.83%;
+  height: 8.78%;
+  position: absolute;
+  right: 94.17%;
+  left: 0%;
+  bottom: 91.22%;
+  top: 0%;
+  object-fit: cover;
+}
+.bells-unversity-of-technlogy {
+  color: #000000;
+  text-align: left;
+  font-family: "BrunoAceSc-Regular", sans-serif;
+  font-size: 19px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  right: 64.42%;
+  left: 5.86%;
+  width: 29.72%;
+  bottom: 95.61%;
+  top: 2.4%;
+  height: 1.99%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.only-the-best-is-good-for-bells {
+  color: #000000;
+  text-align: left;
+  font-family: "Abel-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  right: 84.42%;
+  left: 5.86%;
+  width: 9.72%;
+  bottom: 94.98%;
+  top: 4.39%;
+  height: 0.63%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  -webkit-text-stroke: 1px transparent;
+}
+.navigation-bar {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 30px; 
+}
+
+.nav-item {
+  color: var(--text-color);
+  font-family: var(--font-family);
+  font-size: 14px;
+  line-height: 100%;
+  font-weight: 500;
+  cursor: pointer;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.2s, transform 0.2s;
+}
+
+.nav-item:hover {
+  color: #031c68; /* Hover color */
+}
+.rectangle-10 {
+  text-align: center;
+  background: rgba(138, 138, 140, 0.16);
+  border-radius: 14px;
+  width: 907px;
+  height: 412px;
+  position: absolute;
+  left: 308px;
+  top: 311px;
+}
+.rectangle-11 {
+  background: #ffffff;
+  width: 1484px;
+  height: 97px;
+  position: absolute;
+  left: 0px;
+  top: 860px;
+}
+.photo2 {
+  width: 5.66%;
+  height: 10.14%;
+  position: absolute;
+  right: 94.34%;
+  left: 0%;
+  bottom: 0%;
+  top: 89.86%;
+  object-fit: cover;
+}
+.copyright-2024-ict-resource-center-bells-university-of-technology-ota {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  right: 35.65%;
+  left: 38.21%;
+  width: 26.15%;
+  bottom: 0%;
+  top: 95.72%;
+  height: 4.28%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.help {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  position: absolute;
+  right: 79.65%;
+  left: 15.57%;
+  width: 4.78%;
+  bottom: 7.06%;
+  top: 91.22%;
+  height: 1.72%;
+}
+.customer-support {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: absolute;
+  right: 74.19%;
+  left: 15.57%;
+  width: 10.24%;
+  bottom: 4.78%;
+  top: 93.37%;
+  height: 1.84%;
+}
+.terms-conditions {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  right: 72.64%;
+  left: 15.57%;
+  width: 11.79%;
+  bottom: 2.57%;
+  top: 95.22%;
+  height: 2.21%;
+}
+.privacy-policy {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  right: 73.92%;
+  left: 15.57%;
+  width: 10.51%;
+  bottom: 1.67%;
+  top: 97.19%;
+  height: 1.15%;
+}
+.about-us2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  right: 23.11%;
+  left: 69.34%;
+  width: 7.55%;
+  bottom: 0.64%;
+  top: 97.9%;
+  height: 1.46%;
+}
+.links {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  position: absolute;
+  right: 25.88%;
+  left: 69.34%;
+  width: 4.78%;
+  bottom: 7.91%;
+  top: 90.39%;
+  height: 1.71%;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  position: absolute;
+  right: 13.14%;
+  left: 80.66%;
+  width: 6.2%;
+  bottom: 7.34%;
+  top: 90.39%;
+  height: 2.27%;
+}
+.tel-234-8169629948 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  right: 7.82%;
+  left: 80.66%;
+  width: 11.52%;
+  bottom: 5.39%;
+  top: 93.15%;
+  height: 1.46%;
+}
+.email-danielomonigho-062-gmail-com {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  right: 0%;
+  left: 80.66%;
+  width: 19.34%;
+  bottom: 3.04%;
+  top: 95.5%;
+  height: 1.46%;
+}
+.linkdin {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  right: 22.84%;
+  left: 69.34%;
+  width: 7.82%;
+  bottom: 6.16%;
+  top: 92.62%;
+  height: 1.22%;
+}
+.facebook {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  right: 22.1%;
+  left: 69.34%;
+  width: 8.56%;
+  bottom: 4.03%;
+  top: 94.25%;
+  height: 1.73%;
+}
+.instagram {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  right: 24.66%;
+  left: 69.34%;
+  width: 6%;
+  bottom: 2.3%;
+  top: 95.97%;
+  height: 1.73%;
+}
